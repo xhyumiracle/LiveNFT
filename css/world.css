@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Voltaire');
+
+body{
+  background-color: #dbe6e6;
+}
+
+#world{
+  position: absolute;
+  width:calc( 100% - 220px );
+  height: 100%;
+  overflow:hidden;
+}

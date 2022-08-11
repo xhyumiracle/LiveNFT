@@ -1,0 +1,48 @@
+#c {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;/*
+   height:100%;
+   width:100%;*/
+  display: block;
+  z-index: -1;
+}
+
+.diagram {
+  /*display: inline-block;*/
+  display: block;
+  width: 10em;
+  height: 10em;
+}
+
+.intro {
+  text-align: center;
+  width: 1000em;
+}
+
+
+p {
+  margin: 1em auto;
+  max-width: 400px;
+  font-size: xx-large;
+}
+
+
+
+/*.diagram {
+  display: inline-block;
+  width: 5em;
+  height: 3em;
+}
+.left {
+  float: left;
+  margin-right: .25em;
+}
+.right {
+  float: right;
+  margin-left: .25em;
+}
+
+*/
